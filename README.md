@@ -37,12 +37,13 @@ Sourcing data from IMDB API
 Movie distribution by genre
 
 
-![](./Images/Capture.png)
+![Capture](https://user-images.githubusercontent.com/113230957/200938195-89d2c42d-4938-42c8-88bc-c0d800dc85d8.PNG)
+
 
 
 Movie Ratings
 
-![](./Images/graph2.png)
+![graph2](https://user-images![graph2](https://user-images.githubusercontent.com/113230957/200938336-9a1da3e6-d7fe-4f99-bf45-7de73b6cdba7.PNG)
 
 
 ### Conclusions / Insights
