@@ -43,7 +43,8 @@ Movie distribution by genre
 
 Movie Ratings
 
-![graph2](https://user-images![graph2](https://user-images.githubusercontent.com/113230957/200938336-9a1da3e6-d7fe-4f99-bf45-7de73b6cdba7.PNG)
+![graph2](https://user-images.githubusercontent.com/113230957/200938498-e28fa6b3-b28a-49c9-bc01-91066367b945.PNG)
+
 
 
 ### Conclusions / Insights
